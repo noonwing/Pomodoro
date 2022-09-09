@@ -1,6 +1,6 @@
 # Pomodoro Timer (python)
 
-A small project where I'm aiming to build a pomodoro timer for Linux/Windows to help me study.
+A small project where I'm aiming to build a global platform pomodoro timer to help me study.
 
 Global features I want to implement:
 
