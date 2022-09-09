@@ -1,4 +1,4 @@
-# pomodoro_timer
+# Pomodoro Timer (python)
 
 A small project where I'm aiming to build a pomodoro timer for Linux/Windows to help me study.
 
