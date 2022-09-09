@@ -2,6 +2,8 @@
 
 A small project where I'm aiming to build a global platform pomodoro timer to help me study.
 
+For this project I will need to learn how to use pySimpleGUI package.
+
 Global features I want to implement:
 
 - ❌ Working timer on a nice looking GUI
@@ -10,5 +12,3 @@ Global features I want to implement:
 - ❌ Play a custom sound when the timer reaches "00:00"
 - ❌ Add the option to specify how many loops should the pomodoro do
 - ❌ something else eventually . . .
-
-Planing to use Python as a language for this one.
